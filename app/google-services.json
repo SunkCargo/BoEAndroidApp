@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "201315886344",
+    "firebase_url": "https://boecloudtest.firebaseio.com",
+    "project_id": "boecloudtest",
+    "storage_bucket": "boecloudtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201315886344:android:8a082e3b90be1133f0f8bd",
+        "android_client_info": {
+          "package_name": "com.example.mytestapp4firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201315886344-3sfktvlhtmpr9ltiuujfsc4sdmars8ru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mytestapp4firebase",
+            "certificate_hash": "27ef18a6fece6e713f4e6cf8dcb4f00b73db1a1b"
+          }
+        },
+        {
+          "client_id": "201315886344-9s9smogf93ogrvh2jh64bloqmjcri3j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDogdKo5S5_nUvD76ESDmTKT29zi308wc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201315886344-9s9smogf93ogrvh2jh64bloqmjcri3j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
